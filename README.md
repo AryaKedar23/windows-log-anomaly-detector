@@ -46,6 +46,8 @@ Do not commit sensitive, large, or real log files—use .gitignore.
 For testing, use small synthetic samples.
 Licensed under MIT. Feel free to fork and improve!
 
+Change the file from synthetic_attack.log to whatever log you prefer
+
 
 Contributing
 Pull requests, issues, and suggestions are welcome!
